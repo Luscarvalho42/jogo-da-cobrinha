@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.jogo {
+  width: 512px;
+  margin: 20px auto;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+canvas {
+  margin-top: 30px;
+  border-radius: 10px;
+}
